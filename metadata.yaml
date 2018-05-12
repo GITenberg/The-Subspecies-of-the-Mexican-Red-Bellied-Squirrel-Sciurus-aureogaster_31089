@@ -1,0 +1,28 @@
+_repo: The-Subspecies-of-the-Mexican-Red-Bellied-Squirrel-Sciurus-aureogaster_31089
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kelson, Keith R.
+    gutenberg_agent_id: '33555'
+    url: http://www.gutenberg.org/2009/agents/33555
+description: ''
+gutenberg_bookshelf:
+- Animals-Wild-Mammals
+- Animal
+gutenberg_issued: '2010-01-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31089'
+  lccn: '52062493'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QH'
+- !lcsh 'Squirrels'
+title: The Subspecies of the Mexican Red-Bellied Squirrel, Sciurus aureogaster
+url: http://www.gutenberg.org/ebooks/31089
